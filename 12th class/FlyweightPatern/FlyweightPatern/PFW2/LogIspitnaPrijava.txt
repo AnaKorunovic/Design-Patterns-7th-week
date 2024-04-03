@@ -1,0 +1,132 @@
+Datum:Sat Nov 11 00:35:53 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:36:09 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '0000-00', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:36:09 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:48, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:37:47 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:38:12 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:38:12 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:49, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:38:54 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:40:11 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:42:14 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:49:20 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:49:23 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:50, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:49:36 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:51, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:49:38 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:52, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:53:17 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-11' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 11 00:53:34 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:53, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 11 00:54:49 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:54, '000000', 0, 5, '2017-11-11' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 18 19:11:24 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-18' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 18 19:11:24 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:22, '000000', 0, 5, '2017-11-18' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 18 19:11:38 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:22, '1234-45', 0, 5, '2017-11-18' Poruka:Систем je променио испитну пријаву.
+Datum:Sat Nov 18 19:12:01 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:21, '    -  ', 0, 5, '2017-11-18' Poruka:Систем je нашао испитну пријаву.
+Datum:Sat Nov 18 19:12:03 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:22, '0000-00', 0, 5, '2017-11-18' Poruka:Систем je нашао испитну пријаву.
+Datum:Sat Nov 18 19:12:11 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:22, '1234-45', 12, 8, '2017-11-11' Poruka:Систем je променио испитну пријаву.
+Datum:Sat Nov 18 19:12:38 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:23, '000000', 0, 5, '2017-11-18' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sat Nov 18 19:17:08 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-18' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 18 19:18:28 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '0000-00', 0, 5, '2017-11-18' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 18 19:18:46 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-18' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sat Nov 18 19:19:49 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, '    -  ', 0, 5, '2017-11-18' Poruka:Систем je нашао испитну пријаву.
+Datum:Sat Nov 18 19:20:40 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, '    -  ', 0, 5, '2017-11-18' Poruka:Систем je нашао испитну пријаву.
+Datum:Sun Nov 19 15:59:57 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 15:59:58 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:219, '000000', 0, 5, '2017-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sun Nov 19 16:00:10 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:219, '1231-15', 55, 8, '2017-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Sun Nov 19 16:00:13 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:218, '1231-15', 55, 8, '2017-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Sun Nov 19 16:00:18 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:215, '1234-12', 56, 7, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 16:00:21 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:214, '0000-00', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 16:00:23 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:213, '0000-00', 0, 5, '2017-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Sun Nov 19 16:00:24 CET 2017 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:213, '0000-00', 0, 5, '2017-11-19' Poruka:Систем je oбрисао испитну пријаву.
+Datum:Sun Nov 19 16:26:14 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 16:26:53 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:220, '000000', 0, 5, '2017-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sun Nov 19 16:27:52 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:220, '1234-12', 11, 5, '2017-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Sun Nov 19 16:29:09 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:220, '1234-12', 11, 5, '2017-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Sun Nov 19 16:30:20 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:221, '000000', 0, 5, '2017-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sun Nov 19 16:30:39 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, '0000-00', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 16:31:14 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '0000-00', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 18:23:11 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2017-11-19' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Sun Nov 19 18:23:12 CET 2017 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:225, '000000', 0, 5, '2017-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Sun Nov 19 18:23:20 CET 2017 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:225, '1212-12', 7, 8, '2017-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Sun Nov 19 18:23:25 CET 2017 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:220, '1212-12', 7, 8, '2017-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Sun Nov 19 18:23:25 CET 2017 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:220, '1234-12', 11, 5, '2017-11-19' Poruka:Систем je oбрисао испитну пријаву.
+Datum:Thu Nov 19 21:00:30 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:0, '    -  ', 0, 5, '2020-11-19' Poruka:РЎРёСЃС‚РµРј РЅРµ РјРѕР¶Рµ РґР° РЅР°С’Рµ РёСЃРїРёС‚РЅСѓ РїСЂРёСР°РІСѓ.
+Datum:Thu Nov 19 21:00:30 CET 2020 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:12, '000000', 0, 5, '2020-11-19' Poruka:РЎРёСЃС‚РµРј СРµ РєСЂРµРёСЂР°Рѕ РЅРѕРІСѓ РёСЃРїРёС‚РЅСѓ РїСЂРёСР°РІСѓ.
+Datum:Thu Nov 19 21:00:32 CET 2020 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:12, '0000-00', 0, 9, '2020-11-19' Poruka:РЎРёСЃС‚РµРј je РїСЂРѕРјРµРЅРёРѕ РёСЃРїРёС‚РЅСѓ РїСЂРёСР°РІСѓ.
+Datum:Thu Nov 19 21:00:36 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:5, '0000-00', 0, 9, '2020-11-19' Poruka:РЎРёСЃС‚РµРј je РЅР°С€Р°Рѕ РёСЃРїРёС‚РЅСѓ РїСЂРёСР°РІСѓ.
+Datum:Thu Nov 19 21:00:38 CET 2020 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:5, '0000-00', 0, 5, '2020-11-02' Poruka:РЎРёСЃС‚РµРј je oР±СЂРёСЃР°Рѕ РёСЃРїРёС‚РЅСѓ РїСЂРёСР°РІСѓ.
+Datum:Thu Nov 19 21:05:06 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:1, '    -  ', 0, 5, '2020-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Thu Nov 19 21:05:39 CET 2020 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:13, '000000', 0, 5, '2020-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Thu Nov 19 21:06:09 CET 2020 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:13, '0000-00', 5, 5, '2020-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Thu Nov 19 21:06:30 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:13, '    -  ', 0, 5, '2020-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Thu Nov 19 21:06:40 CET 2020 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:13, '0000-00', 5, 5, '2020-11-19' Poruka:Систем je oбрисао испитну пријаву.
+Datum:Thu Nov 19 21:07:13 CET 2020 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:14, '000000', 0, 5, '2020-11-19' Poruka:Систем је креирао нову испитну пријаву.
+Datum:Thu Nov 19 21:07:22 CET 2020 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:14, '0000-00', 45, 5, '2020-11-19' Poruka:Систем je променио испитну пријаву.
+Datum:Thu Nov 19 21:07:31 CET 2020 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:14, '0000-00', 45, 5, '2020-11-19' Poruka:Систем je oбрисао испитну пријаву.
+Datum:Thu Nov 19 21:07:48 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:3, '0000-00', 0, 5, '2020-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Thu Nov 19 21:07:51 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:5, '2017-56', 12, 8, '2020-10-24' Poruka:Систем не може да нађе испитну пријаву.
+Datum:Thu Nov 19 21:07:54 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:6, '0000-00', 0, 5, '2020-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Thu Nov 19 21:08:08 CET 2020 Naziv operacije:nadjiDomenskiObjekat
+Domenski objekat:6, '    -  ', 0, 5, '2020-11-19' Poruka:Систем je нашао испитну пријаву.
+Datum:Thu Nov 19 21:08:10 CET 2020 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:6, '1212-15', 4, 8, '2020-11-26' Poruka:Систем je oбрисао испитну пријаву.

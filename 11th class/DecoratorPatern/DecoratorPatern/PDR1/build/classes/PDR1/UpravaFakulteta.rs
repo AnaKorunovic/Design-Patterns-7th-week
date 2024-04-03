@@ -1,0 +1,15 @@
+PDR1.MySQL
+PDR1.VBTimPonuda
+PDR1.Mesto
+PDR1.Java
+PDR1.Datum
+PDR1.Komponenta
+PDR1.Ponuda
+PDR1.MSAccess
+PDR1.Dekorator
+PDR1.UpravaFakulteta
+PDR1.VB
+PDR1.SUBP
+PDR1.SILAB
+PDR1.JavaTimPonuda
+PDR1.ProgramskiJezik

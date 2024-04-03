@@ -1,0 +1,7 @@
+ConcreteComponent.OsluskivacPromeni
+ConcreteComponent.OsluskivacNadji
+ConcreteComponent.Kontroler1
+ConcreteComponent.OsluskivacNadji1
+ConcreteComponent.OsluskivacZapamti
+ConcreteComponent.OsluskivacObrisi
+ConcreteComponent.OsluskivacKreiraj
